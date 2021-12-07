@@ -1,0 +1,4 @@
+leipä
+mansikka
+makaroni
+imuri
