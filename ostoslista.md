@@ -1,5 +1,5 @@
-leipä
-mansikka
-makaroni
-imuri
-tämä on hubin kautta lisätty
+- leipä
+- mansikka
+- makaroni
+- imuri
+- Salaattia
