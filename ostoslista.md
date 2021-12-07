@@ -4,3 +4,4 @@
 - imuri
 - Salaattia
 - Munkki
+- karpalo
