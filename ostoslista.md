@@ -1,4 +1,4 @@
-leipä
-mansikka
-makaroni
-imuri
+- leipä
+- mansikka
+- makaroni
+- imuri
