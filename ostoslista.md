@@ -3,3 +3,4 @@
 - makaroni
 - imuri
 - Salaattia
+- Munkki
